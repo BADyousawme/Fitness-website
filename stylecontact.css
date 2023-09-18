@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    height: 75px;
+    border-radius: 50%;
+    
+}
+nav{
+    color: wheat;
+}
+body{
+    background-color: black;
+    
+}
+#main1{
+    color: white;
+}
+#footerbase{
+    
+    color: white;
+}
+#map{
+    border-radius: 12px;
+}
